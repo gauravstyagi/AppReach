@@ -12,6 +12,7 @@
 		EC87056D21248B1500D47464 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC87056B21248B1500D47464 /* Main.storyboard */; };
 		EC87056F21248B1700D47464 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC87056E21248B1700D47464 /* Assets.xcassets */; };
 		EC87057221248B1700D47464 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC87057021248B1700D47464 /* LaunchScreen.storyboard */; };
+		EC87057A2124C72200D47464 /* RegisterPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC8705792124C72200D47464 /* RegisterPageViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		EC87056E21248B1700D47464 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EC87057121248B1700D47464 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EC87057321248B1700D47464 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EC8705792124C72200D47464 /* RegisterPageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterPageViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				EC87056E21248B1700D47464 /* Assets.xcassets */,
 				EC87057021248B1700D47464 /* LaunchScreen.storyboard */,
 				EC87057321248B1700D47464 /* Info.plist */,
+				EC8705792124C72200D47464 /* RegisterPageViewController.swift */,
 			);
 			path = AppReach2.0;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			files = (
 				EC87056A21248B1500D47464 /* ViewController.swift in Sources */,
 				EC87056821248B1500D47464 /* AppDelegate.swift in Sources */,
+				EC87057A2124C72200D47464 /* RegisterPageViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
